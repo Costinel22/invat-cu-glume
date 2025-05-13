@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
 import { useTranslation } from 'react-i18next';
-import heroImage from '../../../public/images/heroImage.png'
+
 
 const HeroSection = () => {
   const { t } = useTranslation();
@@ -9,7 +9,7 @@ const HeroSection = () => {
   return (
     <div
       style={{
-        backgroundImage: {heroImage},
+        backgroundImage: 'url(/images/heroImage.png)', 
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         padding: '5rem 0',
