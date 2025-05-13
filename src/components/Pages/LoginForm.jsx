@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { useAuth } from "../../contexts/AuthProvider";
+import axios from 'axios';
 
 const LoginForm = () => {
   const [email, setEmail] = useState("");
@@ -8,6 +9,26 @@ const LoginForm = () => {
   const [showPassword, setShowPassword] = useState(false);
   const { login, resetPassword } = useAuth();
 
+  const handleLogin = async () => {
+    try {
+      const response = await axios.post('https://backendul-tau.com/login', {
+        email,
+        password
+      }, {
+        withCredentials: true  // ✅ cookie-ul JWT va fi salvat automat
+      });
+  
+      console.log("Autentificat cu succes", response.data);
+    } catch (error) {
+      console.error("Eroare la autentificare:", error);
+      setError("Email sau parolă incorectă.");
+    }
+  };
+  axios.get("https://backendul-tau.com/profile", {
+    withCredentials: true
+  }).then(res => console.log(res.data));
+  
+
   const handleSubmit = async (e) => {
     e.preventDefault();
     if (!email || !password) {
@@ -15,7 +36,8 @@ const LoginForm = () => {
       return;
     }
     try {
-      await login(email, password); // login din context setează userul și avatarul
+      await handleLogin();
+      // login din context setează userul și avatarul
     } catch (err) {
       setError("Email sau parolă incorectă.");
     }

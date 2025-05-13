@@ -13,6 +13,7 @@
         "Logica": "Logică",
         "Engleza": "Engleză"
     },
+    "loadingJokes": "Se încarcă glumele...",
     "language": "Limbă",
     "searchPlaceholder": "Caută...",
     "ai": "Asistent AI",
@@ -44,6 +45,7 @@
     "sharedScore": "și-a partajat scorul",
     "copied": "Text copiat!",
     "categoryTitle": "Categorii populare",
+    "Logout": "Deconectează-te",
     "points": {
         "title": "Puncte",
         "description": "Acumulezi puncte pe măsură ce înveți, participi și te implici."
@@ -92,5 +94,10 @@
     },
     "info": {
         "reset_email_sent": "Ți-am trimis un email pentru resetarea parolei."
+    },
+    "meta": {
+        "title": "JokeEd - Învață inteligent prin glume",
+        "description": "JokeEd - Învață prin glume, formule și distracție. Platformă educațională interactivă pentru copii și adulți.",
+        "keywords": "educație, glume, formule, învățare, copii, școală, platformă educativă, AI, învățare distractivă"
     }
 }

@@ -246,7 +246,7 @@ const SmartNavbar = () => {
                                     <span>{user.displayName || user.email}</span>
                                 </Nav.Link>
                                 <Button variant="outline-light" onClick={logout} className="ms-2">
-                                    {t('Deconectează-te', 'Logout')}
+                                    {t('Logout')}
                                 </Button>
                             </>
                         ) : (

@@ -13,6 +13,7 @@
         "Logica": "Logic",
         "Engleza": "English"
     },
+    "loadingJokes": "Loading jokes...",
     "language": "Language",
     "searchPlaceholder": "Search...",
     "ai": "AI Assistant",
@@ -45,6 +46,7 @@
     "showPassword": "Show password",
     "forgotPassword": "Forgot password?",
     "dontHaveAccount": "Don't have an account?",
+    "Logout": "Logout",
     "points": {
         "title": "Points",
         "description": "Earn points as you learn, engage, and participate."
@@ -93,5 +95,10 @@
     },
     "info": {
         "reset_email_sent": "We sent you a password reset email."
+    },
+    "meta": {
+        "title": "JokeEd - Learn Smart with Jokes",
+        "description": "JokeEd - Learn through jokes, formulas and fun. Interactive educational platform for kids and adults.",
+        "keywords": "education, jokes, formulas, learning, kids, school, educational platform, AI, fun learning"
     }
 }

@@ -5,29 +5,39 @@ const fs = require('fs');
 const multer = require('multer');
 const path = require('path');
 const PORT = 5000;
+const cookieParser = require("cookie-parser");
 
 const app = express();
+app.use(express.json());
+app.use(cookieParser());
 
 
-const allowedOrigins = ['http://localhost:3000', 'http://localhost:5173'];
 
 app.use(cors({
-    origin: function(origin, callback) {
-        if (!origin || allowedOrigins.includes(origin)) {
-            callback(null, true);
-        } else {
-            callback(new Error('Not allowed by CORS'));
-        }
-    },
+    origin: [
+        'http://localhost:3000', // Frontend local
+        'http://localhost:5173',
+        'https://numele-tau.netlify.app' // Înlocuiește cu adresa reală Netlify
+    ],
     credentials: true
 }));
+app.use(express.json());
+
+app.use((req, res, next) => {
+    res.setHeader(
+        "Content-Security-Policy",
+        "default-src 'self'; img-src 'self' data:; connect-src 'self' http://localhost:5000; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; font-src 'self' https: data:"
+    );
+    next();
+});
+
+
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.get("/test", (req, res) => {
     res.json({ message: "CORS merge!" });
 });
 
-app.use(express.json());
 
 const avatarsDir = path.join(__dirname, 'avatars');
 if (!fs.existsSync(avatarsDir)) fs.mkdirSync(avatarsDir);
@@ -35,6 +45,8 @@ app.get("/cors-test", (req, res) => {
     res.setHeader("Access-Control-Allow-Origin", "*");
     res.json({ msg: "Funcționează CORS" });
 });
+
+
 
 
 const storage = multer.diskStorage({
@@ -47,8 +59,8 @@ const storage = multer.diskStorage({
 });
 const upload = multer({ storage });
 
-let users = [
-    { email: "costy@email.com", password: "1234", avatar: null }
+const users = [
+    { email: "test@example.com", password: "123456", avatar: "avatar1.png" }
 ];
 
 // SIGNUP
@@ -69,7 +81,7 @@ app.post("/signup", (req, res) => {
     res.status(201).json({ token, avatar: newUser.avatar });
 });
 
-// LOGIN
+
 app.post("/login", (req, res) => {
     const { email, password } = req.body;
     const user = users.find(u => u.email === email && u.password === password);
@@ -79,7 +91,14 @@ app.post("/login", (req, res) => {
     }
 
     const token = jwt.sign({ email }, "secretul-meu", { expiresIn: "1h" });
-    res.json({ token, avatar: user.avatar || null });
+
+    // ✅ Setează cookie HTTP Only
+    res.cookie("token", token, {
+        httpOnly: true,
+        secure: true, // IMPORTANT pe Netlify (HTTPS)
+        sameSite: "None", // IMPORTANT pentru cross-origin
+        maxAge: 60 * 60 * 1000 // 1 oră
+    }).json({ avatar: user.avatar });
 });
 
 // UPLOAD AVATAR
@@ -161,6 +180,18 @@ app.get('/api/scores/:userId', (req, res) => {
     const { userId } = req.params;
     const { range } = req.query; // "daily", "weekly", "monthly", "total"
     // Returnează scorurile filtrate pe baza lui `range`
+});
+
+app.get("/profile", (req, res) => {
+    const token = req.cookies.token;
+    if (!token) return res.status(401).json({ message: "Neautentificat" });
+
+    try {
+        const data = jwt.verify(token, "secretul-meu");
+        res.json({ mesaj: `Salut, ${data.email}!` });
+    } catch (err) {
+        res.status(401).json({ message: "Token invalid" });
+    }
 });
 
 
