@@ -11,12 +11,7 @@ const LoginForm = () => {
 
   const handleLogin = async () => {
     try {
-      const response = await axios.post('https://backendul-tau.com/login', {
-        email,
-        password
-      }, {
-        withCredentials: true  // ✅ cookie-ul JWT va fi salvat automat
-      });
+      const response =axios.post("http://localhost:5000/login", { email, password }, { withCredentials: true })
   
       console.log("Autentificat cu succes", response.data);
     } catch (error) {
@@ -24,9 +19,7 @@ const LoginForm = () => {
       setError("Email sau parolă incorectă.");
     }
   };
-  axios.get("https://backendul-tau.com/profile", {
-    withCredentials: true
-  }).then(res => console.log(res.data));
+
   
 
   const handleSubmit = async (e) => {
@@ -58,6 +51,8 @@ const LoginForm = () => {
   axios.get("http://localhost:5000/test")
   .then(res => console.log(res.data))
   .catch(err => console.error("CORS fail:", err));
+
+  axios.post("http://localhost:5000/login", { email, password }, { withCredentials: true })
 
 
   return (

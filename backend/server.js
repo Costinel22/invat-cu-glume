@@ -17,7 +17,7 @@ app.use(cors({
     origin: [
         'http://localhost:3000', // Frontend local
         'http://localhost:5173',
-        'https://numele-tau.netlify.app' // Înlocuiește cu adresa reală Netlify
+        'https://jokinglyed.netlify.app' // Înlocuiește cu adresa reală Netlify
     ],
     credentials: true
 }));
@@ -65,10 +65,6 @@ const users = [
 
 // SIGNUP
 app.post("/signup", (req, res) => {
-    res.setHeader("Access-Control-Allow-Origin", "http://localhost:3000");
-    res.setHeader("Access-Control-Allow-Methods", "POST");
-    res.setHeader("Access-Control-Allow-Headers", "Content-Type, Authorization");
-
     const { email, password, avatar } = req.body;
     const existingUser = users.find(u => u.email === email);
     if (existingUser) {
@@ -81,8 +77,8 @@ app.post("/signup", (req, res) => {
     res.status(201).json({ token, avatar: newUser.avatar });
 });
 
-
 app.post("/login", (req, res) => {
+    console.log("Login body:", req.body);
     const { email, password } = req.body;
     const user = users.find(u => u.email === email && u.password === password);
 
@@ -92,13 +88,13 @@ app.post("/login", (req, res) => {
 
     const token = jwt.sign({ email }, "secretul-meu", { expiresIn: "1h" });
 
-    // ✅ Setează cookie HTTP Only
     res.cookie("token", token, {
         httpOnly: true,
+        // secure: process.env.NODE_ENV === "production", // true doar pe HTTPS
         secure: true, // IMPORTANT pe Netlify (HTTPS)
-        sameSite: "None", // IMPORTANT pentru cross-origin
-        maxAge: 60 * 60 * 1000 // 1 oră
-    }).json({ avatar: user.avatar });
+        sameSite: "None",
+        maxAge: 60 * 60 * 1000
+    }).json({ token, avatar: user.avatar });
 });
 
 // UPLOAD AVATAR
