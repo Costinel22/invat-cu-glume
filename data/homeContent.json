@@ -1,0 +1,155 @@
+{
+    "heroSection": {
+        "welcomeMessage": {
+            "ro": "Bine ai venit pe DevGlume!",
+            "en": "Welcome to DevJokes!"
+        },
+        "exploreFormulasJokes": {
+            "ro": "Explorează formule, concepte și glume tech care chiar te ajută să înțelegi!",
+            "en": "Explore formulas, concepts, and tech jokes that actually help you learn!"
+        }
+    },
+    "introSection": {
+        "title": {
+            "ro": "Ce este DevGlume?",
+            "en": "What is DevJokes?"
+        },
+        "description": {
+            "ro": "DevGlume este un site educațional care combină umorul cu învățarea pentru a face programarea și alte domenii tehnice mai accesibile și mai distractive.",
+            "en": "DevJokes is an educational website that combines humor with learning to make programming and other technical fields more accessible and fun."
+        }
+    },
+    "howToUse": {
+        "title": {
+            "ro": "Cum folosești DevGlume?",
+            "en": "How to use DevJokes?"
+        },
+        "steps": {
+            "ro": [
+                "Citește gluma. Râzi (sau nu).",
+                "Vezi explicația tehnică.",
+                "Învață prin exemple și imagini.",
+                "Salvează ce ți-a plăcut și dă inimioare!",
+                "Distribuie cu colegii tăi."
+            ],
+            "en": [
+                "Read the joke. Laugh (or not).",
+                "Check the technical explanation.",
+                "Learn through examples and images.",
+                "Save your favorites and give hearts!",
+                "Share with your colleagues."
+            ]
+        }
+    },
+    "learningThemes": {
+        "title": {
+            "ro": "Teme de învățare",
+            "en": "Learning Topics"
+        },
+        "topics": [{
+                "image": "/images/html_icon.png",
+                "title": {
+                    "ro": "HTML & CSS",
+                    "en": "HTML & CSS"
+                }
+            },
+            {
+                "image": "/images/js_icon.png",
+                "title": {
+                    "ro": "JavaScript",
+                    "en": "JavaScript"
+                }
+            },
+            {
+                "image": "/images/git_icon.png",
+                "title": {
+                    "ro": "Git & Versionare",
+                    "en": "Git & Versioning"
+                }
+            },
+            {
+                "image": "/images/backend_icon.png",
+                "title": {
+                    "ro": "Backend & API",
+                    "en": "Backend & APIs"
+                }
+            },
+            {
+                "image": "/images/ai_icon.png",
+                "title": {
+                    "ro": "AI & Machine Learning",
+                    "en": "AI & Machine Learning"
+                }
+            }, {
+                "image": "/images/matematica_icon.png",
+                "title": {
+                    "ro": "Matematică",
+                    "en": "Mathematics"
+                }
+            },
+            {
+                "image": "/images/fizica_icon.png",
+                "title": {
+                    "ro": "Fizică",
+                    "en": "Physics"
+                }
+            },
+            {
+                "image": "/images/chimie_icon.png",
+                "title": {
+                    "ro": "Chimie",
+                    "en": "Chemistry"
+                }
+            },
+            {
+                "image": "/images/romana_icon.png",
+                "title": {
+                    "ro": "Limba Română",
+                    "en": "Romanian Language"
+                }
+            },
+            {
+                "image": "/images/biologie_icon.png",
+                "title": {
+                    "ro": "Biologie",
+                    "en": "Biology"
+                }
+            },
+            {
+                "image": "/images/geografie_icon.png",
+                "title": {
+                    "ro": "Geografie",
+                    "en": "Geography"
+                }
+            },
+            {
+                "image": "/images/informatica_icon.png",
+                "title": {
+                    "ro": "Informatică",
+                    "en": "Computer Science"
+                }
+            },
+            {
+                "image": "/images/istorie_icon.png",
+                "title": {
+                    "ro": "Istorie",
+                    "en": "History"
+                }
+            },
+            {
+                "image": "/images/logica_icon.png",
+                "title": {
+                    "ro": "Logică",
+                    "en": "Logic"
+                }
+            },
+            {
+                "image": "/images/engleza_icon.png",
+                "title": {
+                    "ro": "Limba Engleză",
+                    "en": "English Language"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "siteTitle": "Învață Inteligent",
+    "home": "Acasă",
+    "categories": {
+        "Matematica": "Matematică",
+        "Fizica": "Fizică",
+        "Chimie": "Chimie",
+        "Romana": "Română",
+        "Biologie": "Biologie",
+        "Geografie": "Geografie",
+        "Informatică": "Informatică",
+        "Istorie": "Istorie",
+        "Logica": "Logică",
+        "Engleza": "Engleză"
+    },
+    "language": "Limbă",
+    "searchPlaceholder": "Caută...",
+    "ai": "Asistent AI",
+    "theme": "Temă",
+    "logout": "Deconectare",
+    "loginLabel": "Autentificare",
+    "signupLabel": "Înregistrare",
+    "email": "Introdu adresa de email",
+    "password": "Parolă",
+    "showPassword": "Arată parola",
+    "forgotPassword": "Ai uitat parola?",
+    "dontHaveAccount": "Nu ai un cont?",
+    "welcomeMessage": "Bine ai venit la Învață cu Glume!",
+    "exploreFormulasJokes": "Explorează formule, glume și învață inteligent.",
+    "heroTitle": "Învățăm râzând, copii și adulți împreună",
+    "heroSubtitle": "Descoperă magia învățării prin glume, în orice limbă și pentru orice vârstă.",
+    "restartJokes": "Ia-o de la început",
+    "exitToHome": "Înapoi la pagina principală",
+    "previousJoke": "Gluma anterioară",
+    "showExample": "Arată explicația",
+    "hideExample": "Ascunde explicația",
+    "nextJoke": "Gluma următoare",
+    "score": "Scor",
+    "daily": "Zilnic",
+    "weekly": "Săptămânal",
+    "monthly": "Lunar",
+    "total": "Total",
+    "share": "Partajează scorul",
+    "sharedScore": "și-a partajat scorul",
+    "copied": "Text copiat!",
+    "categoryTitle": "Categorii populare",
+    "points": {
+        "title": "Puncte",
+        "description": "Acumulezi puncte pe măsură ce înveți, participi și te implici."
+    },
+    "growth": {
+        "title": "Dezvoltare",
+        "description": "Devii mai bun cu fiecare glumă, formulă sau lecție parcursă."
+    },
+    "woalcon": {
+        "whatTitle": "Ce este Woalcon?",
+        "whatText": "Woalcon este o conferință digitală despre umor, cod și învățare.",
+        "howTitle": "Cum participi?",
+        "howText": "Poți participa gratuit, direct de pe platformă, cu sau fără cont."
+    },
+    "features": {
+        "codingPlatform": "Platformă de Codare",
+        "codecademy": "Codecademy",
+        "mapTitle": "Hartă Umoristică",
+        "biology": "Biologie cu Umor"
+    },
+    "login": {
+        "title": "Autentificare",
+        "button": "Autentifică-te",
+        "no_account": "Nu ai cont?",
+        "change_avatar": "Schimbă avatarul"
+    },
+    "signup": {
+        "title": "Înregistrare",
+        "button": "Creează cont",
+        "have_account": "Ai deja un cont?",
+        "choose_avatar": "Alege un avatar (opțional)"
+    },
+    "form": {
+        "email_placeholder": "Introdu adresa de email",
+        "password": "Parolă",
+        "password_placeholder": "Parolă",
+        "toggle_password": "Arată/Ascunde parola",
+        "forgot_password": "Ai uitat parola?",
+        "processing": "Se procesează..."
+    },
+    "error": {
+        "invalid_credentials": "Email sau parolă incorecte.",
+        "signup_failed": "Eroare la crearea contului.",
+        "enter_email_for_reset": "Te rugăm să introduci adresa de email pentru resetare.",
+        "reset_email_failed": "A apărut o eroare la trimiterea emailului de resetare."
+    },
+    "info": {
+        "reset_email_sent": "Ți-am trimis un email pentru resetarea parolei."
+    }
+}

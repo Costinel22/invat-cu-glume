@@ -1,0 +1,444 @@
+[{
+        "id": 1,
+        "formula": "H₂O",
+        "description": {
+            "ro": "Molecula apei.",
+            "en": "Water molecule."
+        },
+        "joke": {
+            "ro": "Apa este ca un prieten: mereu te ajută să rămâi hidratat.",
+            "en": "Water is like a friend: always helps you stay hydrated."
+        },
+        "hearts": 4,
+        "example": {
+            "ro": "Explicație: Apa este un compus format din doi atomi de hidrogen (H) și un atom de oxigen (O), legați prin legături covalente. Molecula are o geometrie unghiulară (~104.5°), ceea ce îi conferă polaritate.",
+            "en": "Explanation: Water is a compound made of two hydrogen (H) atoms and one oxygen (O) atom, bonded through covalent bonds. The molecule has an angular geometry (~104.5°), which gives it polarity."
+        },
+        "exampleImage": "../images/Water_Molecule_Structure_.png"
+    },
+    {
+        "id": 2,
+        "formula": "CO₂",
+        "description": {
+            "ro": "Dioxid de carbon.",
+            "en": "Carbon dioxide."
+        },
+        "joke": {
+            "ro": "Dioxidul de carbon este ce ne face să răcim aerul, dar poate să fie periculos dacă e prea mult.",
+            "en": "Carbon dioxide helps us cool the air, but too much can be dangerous."
+        },
+        "hearts": 3,
+        "example": {
+            "ro": "Explicație: Dioxidul de carbon este un gaz incolor și inodor, produs prin respirație și arderea combustibililor.",
+            "en": "Explanation: Carbon dioxide is a colorless and odorless gas, produced through respiration and the burning of fuels."
+        }
+    }, {
+        "id": 3,
+        "formula": "NaCl",
+        "description": {
+            "ro": "Clorura de sodiu (sare de masă).",
+            "en": "Sodium chloride (table salt)."
+        },
+        "joke": {
+            "ro": "Ce spune un cristal de sare când îl întrebi ce face? 'Sunt în proces de dizolvare!'.",
+            "en": "What does a salt crystal say when asked how it's doing? 'I'm dissolving into my work!'"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Clorura de sodiu este un compus ionic format din ioni de sodiu (Na⁺) și ioni de clor (Cl⁻).",
+            "en": "Explanation: Sodium chloride is an ionic compound made of sodium (Na⁺) and chloride (Cl⁻) ions."
+        }
+    },
+    {
+        "id": 4,
+        "formula": "HCl",
+        "description": {
+            "ro": "Acid clorhidric.",
+            "en": "Hydrochloric acid."
+        },
+        "joke": {
+            "ro": "Acidul clorhidric are o personalitate puternică, dar își poate face treaba fără probleme.",
+            "en": "Hydrochloric acid has a strong personality, but it gets the job done without problems."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: HCl este un acid puternic găsit în sucul gastric și folosit în diverse procese chimice.",
+            "en": "Explanation: HCl is a strong acid found in gastric juice and used in various chemical processes."
+        }
+    },
+    {
+        "id": 5,
+        "formula": "O₂",
+        "description": {
+            "ro": "Oxigen.",
+            "en": "Oxygen."
+        },
+        "joke": {
+            "ro": "Oxigenul e ca un prieten pe care nu-l vezi prea des, dar nu poți trăi fără el.",
+            "en": "Oxygen is like a friend you don’t see often, but you can’t live without it."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Oxigenul este un gaz esențial pentru respirație și pentru majoritatea reacțiilor de ardere.",
+            "en": "Explanation: Oxygen is an essential gas for respiration and most combustion reactions."
+        }
+    },
+    {
+        "id": 6,
+        "formula": "C₆H₁₂O₆",
+        "description": {
+            "ro": "Glucoză.",
+            "en": "Glucose."
+        },
+        "joke": {
+            "ro": "Glucoza este combustibilul care ține organismul în mișcare – literal și figurat!",
+            "en": "Glucose is the fuel that keeps the body running—literally and figuratively!"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Glucoza este un carbohidrat care furnizează energie celulelor din organism.",
+            "en": "Explanation: Glucose is a carbohydrate that provides energy to cells in the body."
+        }
+    },
+    {
+        "id": 7,
+        "formula": "NH₃",
+        "description": {
+            "ro": "Amoniac.",
+            "en": "Ammonia."
+        },
+        "joke": {
+            "ro": "Amoniacul are un miros puternic, dar nu poate fi învins într-o luptă chimică.",
+            "en": "Ammonia has a strong smell, but it can’t be beaten in a chemistry fight."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Amoniacul este un compus de azot și hidrogen folosit în fertilizatori și produse de curățare.",
+            "en": "Explanation: Ammonia is a compound of nitrogen and hydrogen used in fertilizers and cleaning products."
+        }
+    },
+    {
+        "id": 8,
+        "formula": "CH₄",
+        "description": {
+            "ro": "Metan.",
+            "en": "Methane."
+        },
+        "joke": {
+            "ro": "Metanul este un gaz care nu iubește prea mult să fie prins – e invizibil și inodor.",
+            "en": "Methane is a gas that doesn't like being caught—it’s invisible and odorless."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Metanul este un gaz simplu format dintr-un atom de carbon și patru atomi de hidrogen.",
+            "en": "Explanation: Methane is a simple gas made up of one carbon atom and four hydrogen atoms."
+        }
+    },
+    {
+        "id": 9,
+        "formula": "SO₂",
+        "description": {
+            "ro": "Dioxid de sulf.",
+            "en": "Sulfur dioxide."
+        },
+        "joke": {
+            "ro": "Dioxidul de sulf face orice gaz să se răcească, dar nu este tocmai plăcut la miros.",
+            "en": "Sulfur dioxide cools down any gas, but it's not the best-smelling one."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Dioxidul de sulf este un gaz toxic care apare în emisiile industriale și în erupțiile vulcanice.",
+            "en": "Explanation: Sulfur dioxide is a toxic gas found in industrial emissions and volcanic eruptions."
+        }
+    },
+    {
+        "id": 10,
+        "formula": "CaCO₃",
+        "description": {
+            "ro": "Carbonat de calciu.",
+            "en": "Calcium carbonate."
+        },
+        "joke": {
+            "ro": "Calcarul este ca o rocă care are mai multe forme – de la piatra de construcție la praf.",
+            "en": "Limestone is like a rock with multiple personalities—it can be a building block or just dust."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Carbonatul de calciu este un compus care se găsește în pietre, calcar și cochilii de moluște.",
+            "en": "Explanation: Calcium carbonate is a compound found in rocks, limestone, and mollusk shells."
+        }
+    },
+    {
+        "id": 11,
+        "formula": "H₂SO₄",
+        "description": {
+            "ro": "Acid sulfuric.",
+            "en": "Sulfuric acid."
+        },
+        "joke": {
+            "ro": "Acidul sulfuric are un temperament iute – face totul să devină mai intens.",
+            "en": "Sulfuric acid has a fiery temperament—it makes everything more intense."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Acidul sulfuric este un acid puternic folosit în industrie, inclusiv în producerea îngrășămintelor.",
+            "en": "Explanation: Sulfuric acid is a strong acid used in industry, including fertilizer production."
+        }
+    },
+    {
+        "id": 12,
+        "formula": "C₂H₅OH",
+        "description": {
+            "ro": "Etanol (alcool etilic).",
+            "en": "Ethanol (ethyl alcohol)."
+        },
+        "joke": {
+            "ro": "Etanolul este cel care face petrecerile interesante… și apoi adesea provoacă dureri de cap.",
+            "en": "Ethanol is what makes parties fun… and then causes headaches afterward."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Etanolul este un alcool care se găsește în băuturile alcoolice și se folosește și ca combustibil.",
+            "en": "Explanation: Ethanol is an alcohol found in alcoholic drinks and also used as a fuel."
+        }
+    },
+    {
+        "id": 13,
+        "formula": "KOH",
+        "description": {
+            "ro": "Hidroxid de potasiu.",
+            "en": "Potassium hydroxide."
+        },
+        "joke": {
+            "ro": "Hidroxidul de potasiu este o bază puternică – chiar și apărarea lui este deosebită.",
+            "en": "Potassium hydroxide is a strong base—even its defenses are impressive."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Hidroxidul de potasiu este un compus ionic folosit în producția de săpunuri și în curățarea chimică.",
+            "en": "Explanation: Potassium hydroxide is an ionic compound used in soap production and chemical cleaning."
+        }
+    },
+    {
+        "id": 14,
+        "formula": "NaOH",
+        "description": {
+            "ro": "Hidroxid de sodiu.",
+            "en": "Sodium hydroxide."
+        },
+        "joke": {
+            "ro": "Hidroxidul de sodiu este un adevărat erou în curățenie, dar te poate arde dacă nu ești atent!",
+            "en": "Sodium hydroxide is a true cleaning hero, but it can burn you if you're not careful!"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Hidroxidul de sodiu este o bază puternică folosită în curățarea și fabricarea săpunurilor.",
+            "en": "Explanation: Sodium hydroxide is a strong base used in cleaning and soap manufacturing."
+        }
+    },
+    {
+        "id": 15,
+        "formula": "AgNO₃",
+        "description": {
+            "ro": "Nitrat de argint.",
+            "en": "Silver nitrate."
+        },
+        "joke": {
+            "ro": "Argintul este prețios și când vine vorba de chimie! Nitrații de argint pot fi și periculoși.",
+            "en": "Silver is precious even in chemistry! Silver nitrates can also be dangerous."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Nitrații de argint sunt compuși chimici folosiți în fotografie și în industria chimică.",
+            "en": "Explanation: Silver nitrates are chemical compounds used in photography and the chemical industry."
+        }
+    },
+    {
+        "id": 16,
+        "formula": "CuSO₄",
+        "description": {
+            "ro": "Sulfat de cupru.",
+            "en": "Copper sulfate."
+        },
+        "joke": {
+            "ro": "Cuprul și sulfaturile sale sunt doar pentru cei cu nervi tari – au un impact puternic în chimie!",
+            "en": "Copper and its sulfates are only for those with strong nerves—they have a powerful impact in chemistry!"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Sulfatul de cupru este folosit în tratamentele pentru sol și în electrochimie.",
+            "en": "Explanation: Copper sulfate is used in soil treatments and electrochemistry."
+        }
+    },
+    {
+        "id": 17,
+        "formula": "N₂",
+        "description": {
+            "ro": "Azot molecular.",
+            "en": "Molecular nitrogen."
+        },
+        "joke": {
+            "ro": "Azotul este un gaz tăcut și invizibil, dar esențial pentru viața noastră.",
+            "en": "Nitrogen is a quiet and invisible gas, but essential for our life."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Azotul este un gaz incolor și inodor, constituit din doi atomi de azot legați între ele.",
+            "en": "Explanation: Nitrogen is a colorless and odorless gas composed of two nitrogen atoms bonded together."
+        }
+    },
+    {
+        "id": 18,
+        "formula": "C₄H₁₀",
+        "description": {
+            "ro": "Butan.",
+            "en": "Butane."
+        },
+        "joke": {
+            "ro": "Butanul este un gaz care preferă să fie în starea lichidă atunci când este refrigerat, dar este perfect pentru aragazuri.",
+            "en": "Butane is a gas that prefers to be in liquid form when refrigerated, but it's perfect for stoves."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Butanul este un hidrocarbură folosită în gaze pentru aragazuri și în carburant pentru lămpi.",
+            "en": "Explanation: Butane is a hydrocarbon used in stove gases and lamp fuel."
+        }
+    },
+    {
+        "id": 19,
+        "formula": "CH₃COOH",
+        "description": {
+            "ro": "Acid acetic.",
+            "en": "Acetic acid."
+        },
+        "joke": {
+            "ro": "Acidul acetic poate fi cel mai ușor de întâlnit în oțet – dar nu te face să-l subestimezi!",
+            "en": "Acetic acid is easiest to find in vinegar—but don’t underestimate it!"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Acidul acetic este un acid carboxilic care dă oțetului gustul său distinct.",
+            "en": "Explanation: Acetic acid is a carboxylic acid that gives vinegar its distinct taste."
+        }
+    },
+    {
+        "id": 20,
+        "formula": "C₆H₆",
+        "description": {
+            "ro": "Benzen.",
+            "en": "Benzene."
+        },
+        "joke": {
+            "ro": "Benzenul e un băiat bun când vrei să faci solvenți, dar cu el nu e bine să stai prea mult.",
+            "en": "Benzene is a good guy when making solvents, but it's best not to spend too much time with it."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Benzenul este un hidrocarbură aromatică folosită în industrie, dar este un cancerigen cunoscut.",
+            "en": "Explanation: Benzene is an aromatic hydrocarbon used in industry, but it's a known carcinogen."
+        }
+    },
+    {
+        "id": 21,
+        "formula": "C₁₂H₂₂O₁₁",
+        "description": {
+            "ro": "Zahăr (sucroză).",
+            "en": "Sugar (sucrose)."
+        },
+        "joke": {
+            "ro": "Zahărul este ca un magician – face totul mai dulce!",
+            "en": "Sugar is like a magician—it makes everything sweeter!"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Sucroza este un disacarid format din glucoză și fructoză, folosit ca îndulcitor.",
+            "en": "Explanation: Sucrose is a disaccharide made of glucose and fructose, used as a sweetener."
+        }
+    },
+    {
+        "id": 22,
+        "formula": "C₁₈H₃₆",
+        "description": {
+            "ro": "Stearină.",
+            "en": "Stearin."
+        },
+        "joke": {
+            "ro": "Stearina este ca un prieten care se topește la căldură, dar rămâne solid la rece.",
+            "en": "Stearin is like a friend who melts in the heat but stays solid when it's cold."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Stearina este un triglicerid folosit în fabricarea lumânărilor și a săpunurilor.",
+            "en": "Explanation: Stearin is a triglyceride used in candle and soap making."
+        }
+    },
+    {
+        "id": 23,
+        "formula": "C₁₈H₃₆O₂",
+        "description": {
+            "ro": "Acid stearic.",
+            "en": "Stearic acid."
+        },
+        "joke": {
+            "ro": "Acidul stearic este ca un prieten care îți oferă o mână de ajutor în fabricarea săpunurilor.",
+            "en": "Stearic acid is like a friend who gives you a hand in soap making."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Acidul stearic este un acid gras folosit în industria cosmetică și farmaceutică.",
+            "en": "Explanation: Stearic acid is a fatty acid used in the cosmetic and pharmaceutical industries."
+        }
+    },
+    {
+        "id": 24,
+        "formula": "C₁₈H₃₄O₂",
+        "description": {
+            "ro": "Acid oleic.",
+            "en": "Oleic acid."
+        },
+        "joke": {
+            "ro": "Acidul oleic este ca un prieten care îți oferă o mână de ajutor în gătit.",
+            "en": "Oleic acid is like a friend who gives you a hand in cooking."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Acidul oleic este un acid gras mononesaturat găsit în uleiurile vegetale.",
+            "en": "Explanation: Oleic acid is a monounsaturated fatty acid found in vegetable oils."
+        }
+    },
+    {
+        "id": 25,
+        "formula": "C₁₈H₃₄",
+        "description": {
+            "ro": "Stearina.",
+            "en": "Stearin."
+        },
+        "joke": {
+            "ro": "Stearina este ca un prieten care se topește la căldură, dar rămâne solid la rece.",
+            "en": "Stearin is like a friend who melts in the heat but stays solid when it's cold."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Stearina este un triglicerid folosit în fabricarea lumânărilor și a săpunurilor.",
+            "en": "Explanation: Stearin is a triglyceride used in candle and soap making."
+        }
+    },
+    {
+        "id": 26,
+        "formula": "C₁₈H₃₄N₂O₂",
+        "description": {
+            "ro": "Acid arahidonic.",
+            "en": "Arachidonic acid."
+        },
+        "joke": {
+            "ro": "Acidul arahidonic este ca un prieten care îți oferă o mână de ajutor în gătit.",
+            "en": "Arachidonic acid is like a friend who gives you a hand in cooking."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Acidul arahidonic este un acid gras polinesaturat esențial pentru organism.",
+            "en": "Explanation: Arachidonic acid is a polyunsaturated fatty acid essential for the body."
+        }
+    }
+
+]

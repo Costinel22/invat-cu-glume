@@ -1,0 +1,38 @@
+.smart-navbar {
+    z-index: 9999;
+    height: 80px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.smart-navbar .form-control {
+    width: 200px;
+}
+
+@media (max-width: 767px) {
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .navbar .nav-link,
+    .navbar .dropdown-toggle {
+        font-size: 14px;
+        padding: 10px;
+    }
+    .navbar-collapse {
+        flex-direction: column;
+    }
+    .dropdown-menu {
+        background-color: #f8f9fa;
+    }
+    .navbar-toggler {
+        border-color: #ddd;
+    }
+}
+
+.navbar-toggle {
+    background-color: #007bff;
+}
+
+.button-group button {
+    margin-right: 10px;
+}

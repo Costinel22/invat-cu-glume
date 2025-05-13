@@ -1,0 +1,426 @@
+[{
+        "id": 1,
+        "formula": "ADN-ul conține informația genetică",
+        "description": {
+            "ro": "ADN-ul este molecula care stochează informația genetică necesară pentru dezvoltarea și funcționarea organismelor.",
+            "en": "DNA is the molecule that stores genetic information needed for the development and functioning of organisms."
+        },
+        "joke": {
+            "ro": "De ce nu se ceartă niciodată moleculele de ADN? Pentru că știu să se împerecheze complementar!",
+            "en": "Why do DNA molecules never argue? Because they always pair up complementarily!"
+        },
+        "hearts": 4,
+        "example": {
+            "ro": "🔹 Exercițiu:\nSecvența ADN: ATCG\nComplementară: TAGC\nExplicație: Adenina (A) se leagă cu Timină (T), iar Citozina (C) cu Guanină (G).",
+            "en": "🔹 Exercise:\nDNA sequence: ATCG\nComplementary: TAGC\nExplanation: Adenine (A) pairs with Thymine (T), and Cytosine (C) pairs with Guanine (G)."
+        }
+    },
+    {
+        "id": 2,
+        "formula": "Mitocondria este centrala energetică a celulei",
+        "description": {
+            "ro": "Mitocondria produce energie sub formă de ATP prin respirație celulară.",
+            "en": "The mitochondrion produces energy in the form of ATP through cellular respiration."
+        },
+        "joke": {
+            "ro": "Mitocondria a intrat într-un bar și a spus: 'Am venit să dau energie petrecerii!'",
+            "en": "The mitochondrion walked into a bar and said, 'I'm here to power up the party!'"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nGlucoză + O₂ → CO₂ + H₂O + ATP\nExplicație: Prin oxidarea glucozei în prezența oxigenului, mitocondria produce ATP, CO₂ și apă.",
+            "en": "🔹 Exercise:\nGlucose + O₂ → CO₂ + H₂O + ATP\nExplanation: Through glucose oxidation in the presence of oxygen, the mitochondrion produces ATP, CO₂, and water."
+        }
+    },
+
+    {
+        "id": 3,
+        "formula": "Fotosinteza: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
+        "description": {
+            "ro": "Proces prin care plantele transformă dioxidul de carbon și apa în glucoză și oxigen, folosind lumina solară.",
+            "en": "Process by which plants convert carbon dioxide and water into glucose and oxygen using sunlight."
+        },
+        "joke": {
+            "ro": "Planta a fost arestată pentru că producea prea mult oxigen ilegal!",
+            "en": "The plant was arrested for producing too much illegal oxygen!"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\n6 CO₂ + 6 H₂O + lumină → C₆H₁₂O₆ + 6 O₂\nExplicație: Plantele folosesc lumina pentru a transforma CO₂ și H₂O în zaharuri și oxigen.",
+            "en": "🔹 Exercise:\n6 CO₂ + 6 H₂O + light → C₆H₁₂O₆ + 6 O₂\nExplanation: Plants use light to convert CO₂ and H₂O into sugars and oxygen."
+        }
+    },
+    {
+        "id": 4,
+        "formula": "Sistemul nervos transmite impulsuri electrice",
+        "description": {
+            "ro": "Neuronii transmit semnale electrice pentru a coordona funcțiile corpului.",
+            "en": "Neurons transmit electrical signals to coordinate body functions."
+        },
+        "joke": {
+            "ro": "Neuronul și-a pierdut conexiunea și a intrat în panică: 'Am un scurtcircuit emoțional!'",
+            "en": "The neuron lost its connection and panicked: 'I'm having an emotional short circuit!'"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nStimulus → Receptor → Neuron senzorial → SNC → Neuron motor → Efector\nExplicație: Un arc reflex implică transmiterea impulsului de la receptor la efector prin neuroni.",
+            "en": "🔹 Exercise:\nStimulus → Receptor → Sensory neuron → CNS → Motor neuron → Effector\nExplanation: A reflex arc involves transmitting an impulse from the receptor to the effector via neurons."
+        }
+    },
+    {
+        "id": 5,
+        "formula": "Grupurile sanguine sunt determinate de antigenele de pe eritrocite",
+        "description": {
+            "ro": "Există patru grupe sanguine principale: A, B, AB și O, determinate de prezența sau absența antigenelor A și B.",
+            "en": "There are four main blood groups: A, B, AB, and O, determined by the presence or absence of antigens A and B."
+        },
+        "joke": {
+            "ro": "De ce sângele AB este invitat la toate petrecerile? Pentru că se înțelege cu toată lumea!",
+            "en": "Why is AB blood invited to every party? Because it gets along with everyone!"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nGrupa A: antigen A, anticorp anti-B\nGrupa B: antigen B, anticorp anti-A\nGrupa AB: antigene A și B, fără anticorpi\nGrupa O: fără antigene, anticorpi anti-A și anti-B",
+            "en": "🔹 Exercise:\nBlood type A: antigen A, anti-B antibody\nBlood type B: antigen B, anti-A antibody\nBlood type AB: antigens A and B, no antibodies\nBlood type O: no antigens, anti-A and anti-B antibodies"
+        }
+    }, {
+        "id": 6,
+        "formula": "Enzimele sunt catalizatori biologici",
+        "description": {
+            "ro": "Enzimele accelerează reacțiile chimice din organism fără a fi consumate.",
+            "en": "Enzymes accelerate chemical reactions in the body without being consumed."
+        },
+        "joke": {
+            "ro": "Enzima a fost concediată pentru că accelera toate reacțiile la birou!",
+            "en": "The enzyme got fired for speeding up all reactions at work!"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nAmilaza transformă amidonul în zaharuri simple.\nExplicație: Amilaza salivară descompune amidonul în maltoză în cavitatea bucală.",
+            "en": "🔹 Exercise:\nAmylase converts starch into simple sugars.\nExplanation: Salivary amylase breaks down starch into maltose in the mouth."
+        }
+    },
+    {
+        "id": 7,
+        "formula": "Homeostazia menține stabilitatea mediului intern",
+        "description": {
+            "ro": "Organismul reglează parametrii interni (temperatură, pH, glicemie) pentru a funcționa optim.",
+            "en": "The body regulates internal parameters (temperature, pH, blood sugar) for optimal function."
+        },
+        "joke": {
+            "ro": "Corpul meu este atât de obsedat de echilibru încât își face singur terapie!",
+            "en": "My body is so obsessed with balance that it does its own therapy!"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nCând glicemia crește, pancreasul secretă insulină pentru a o reduce.\nExplicație: Insulina ajută la absorbția glucozei în celule, scăzând nivelul din sânge.",
+            "en": "🔹 Exercise:\nWhen blood sugar increases, the pancreas secretes insulin to lower it.\nExplanation: Insulin helps cells absorb glucose, reducing its level in the blood."
+        }
+    },
+    {
+        "id": 8,
+        "formula": "Genetica studiază ereditatea și variația",
+        "description": {
+            "ro": "Genetica explică modul în care caracteristicile sunt transmise de la părinți la urmași.",
+            "en": "Genetics explains how traits are passed from parents to offspring."
+        },
+        "joke": {
+            "ro": "Am moștenit de la mama ochii verzi și de la tata... tendința de a pierde telecomanda!",
+            "en": "I inherited green eyes from my mom and... the tendency to lose the remote from my dad!"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nPărinți: Aa x Aa\nPosibile genotipuri: AA, Aa, aa\nExplicație: Există o probabilitate de 25% pentru fiecare genotip.",
+            "en": "🔹 Exercise:\nParents: Aa x Aa\nPossible genotypes: AA, Aa, aa\nExplanation: There is a 25% probability for each genotype."
+        }
+    }, {
+        "id": 9,
+        "formula": "Ecologia studiază relațiile dintre organisme și mediu",
+        "description": {
+            "ro": "Ecologia analizează interacțiunile dintre organisme și factorii abiotici și biotici.",
+            "en": "Ecology analyzes interactions between organisms and abiotic and biotic factors."
+        },
+        "joke": {
+            "ro": "Ecosistemul a intrat în depresie pentru că nimeni nu-l mai vizita... până a venit un ecologist!",
+            "en": "The ecosystem fell into depression because no one visited it... until an ecologist came along!"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nLanț trofic: Iarbă → Iepure → Vulpe → Lup\nExplicație: Energia se transferă de la producători la consumatori prin lanțuri trofice.",
+            "en": "🔹 Exercise:\nFood chain: Grass → Rabbit → Fox → Wolf\nExplanation: Energy is transferred from producers to consumers through food chains."
+        }
+    },
+    {
+        "id": 10,
+        "formula": "Mutatiile sunt modificări ale materialului genetic",
+        "description": {
+            "ro": "Mutatiile pot fi spontane sau induse și pot avea efecte variate asupra organismului.",
+            "en": "Mutations can be spontaneous or induced and may have varying effects on the organism."
+        },
+        "joke": {
+            "ro": "ADN-ul a făcut o greșeală de tipar și a devenit... mutantul clasei!",
+            "en": "DNA made a typing error and became... the mutant of the class!"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nSubstituție: ACG → ATG\nExplicație: O bază azotată este înlocuită, ceea ce poate schimba aminoacidul codificat.",
+            "en": "🔹 Exercise:\nSubstitution: ACG → ATG\nExplanation: A nitrogen base is replaced, which may change the encoded amino acid."
+        }
+    },
+    {
+        "id": 11,
+        "formula": "Sistemul imunitar apără organismul de agenți patogeni",
+        "description": {
+            "ro": "Sistemul imunitar detectează și neutralizează bacteriile, virusurile și alte amenințări.",
+            "en": "The immune system detects and neutralizes bacteria, viruses, and other threats."
+        },
+        "joke": {
+            "ro": "Sistemul imunitar a fost promovat la rangul de supererou intern!",
+            "en": "The immune system got promoted to an internal superhero!"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nVaccinarea stimulează producția de anticorpi specifici.\nExplicație: Vaccinurile introduc antigeni care determină sistemul imunitar să producă anticorpi.",
+            "en": "🔹 Exercise:\nVaccination stimulates the production of specific antibodies.\nExplanation: Vaccines introduce antigens that prompt the immune system to produce antibodies."
+        }
+    }, {
+        "id": 12,
+        "formula": "Reproducerea sexuală implică combinarea materialului genetic",
+        "description": {
+            "ro": "Reproducerea sexuală duce la diversitate genetică prin combinarea genelor părinților.",
+            "en": "Sexual reproduction leads to genetic diversity by combining parents' genes."
+        },
+        "joke": {
+            "ro": "Celulele reproducătoare au avut o întâlnire și au decis să creeze ceva nou împreună!",
+            "en": "Reproductive cells had a meeting and decided to create something new together!"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nSpermatozoid (23c) + Ovul (23c) → Zigot (46c)\nExplicație: Fertilizarea combină materialul genetic din două gameți pentru a forma un zigot diploid.",
+            "en": "🔹 Exercise:\nSperm cell (23c) + Egg cell (23c) → Zygote (46c)\nExplanation: Fertilization combines genetic material from two gametes to form a diploid zygote."
+        }
+    },
+    {
+        "id": 13,
+        "formula": "Enzimele sunt specifice substratului lor",
+        "description": {
+            "ro": "Fiecare enzimă acționează asupra unui substrat specific, ca o cheie într-o încuietoare.",
+            "en": "Each enzyme acts on a specific substrate, like a key fitting into a lock."
+        },
+        "joke": {
+            "ro": "Enzima a refuzat să lucreze cu alt substrat: 'Nu ești tipul meu de moleculă!'",
+            "en": "The enzyme refused to work with another substrate: 'You're not my type of molecule!'"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nLactaza descompune lactoza în glucoză și galactoză.\nExplicație: Lactaza acționează specific asupra lactozei, facilitând digestia zahărului din lapte.",
+            "en": "🔹 Exercise:\nLactase breaks down lactose into glucose and galactose.\nExplanation: Lactase specifically acts on lactose, facilitating the digestion of milk sugar."
+        }
+    },
+    {
+        "id": 14,
+        "formula": "Cloroplastele sunt locul unde are loc fotosinteza",
+        "description": {
+            "ro": "Cloroplastele conțin clorofilă și sunt responsabile pentru captarea luminii solare.",
+            "en": "Chloroplasts contain chlorophyll and are responsible for capturing sunlight."
+        },
+        "joke": {
+            "ro": "Cloroplastul a fost prins furând lumina soarelui pentru a face zahăr!",
+            "en": "The chloroplast was caught stealing sunlight to make sugar!"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nLumina + CO₂ + H₂O → Glucoză + O₂\nExplicație: Cloroplastele transformă energia solară în energie chimică prin fotosinteză.",
+            "en": "🔹 Exercise:\nLight + CO₂ + H₂O → Glucose + O₂\nExplanation: Chloroplasts convert solar energy into chemical energy through photosynthesis."
+        }
+    },
+    {
+        "id": 15,
+        "formula": "Membrana celulară controlează transportul de substanțe",
+        "description": {
+            "ro": "Membrana celulară reglează ce intră și ce iese din celulă, menținând echilibrul intern.",
+            "en": "The cell membrane regulates what enters and exits the cell, maintaining internal balance."
+        },
+        "joke": {
+            "ro": "Membrana celulară e ca un portar exigent: nu lasă pe oricine să intre!",
+            "en": "The cell membrane is like a strict bouncer: it doesn’t let just anyone in!"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nTransport activ: Pompa de Na+/K+\nExplicație: Celula folosește energie pentru a transporta ioni de sodiu și potasiu împotriva gradientului de concentrație.",
+            "en": "🔹 Exercise:\nActive transport: Na+/K+ pump\nExplanation: The cell uses energy to transport sodium and potassium ions against the concentration gradient."
+        }
+    },
+    {
+        "id": 16,
+        "formula": "Cromozomii conțin ADN-ul",
+        "description": {
+            "ro": "Cromozomii sunt structuri din nucleu ce conțin informația genetică a organismului.",
+            "en": "Chromosomes are structures in the nucleus that contain the genetic information of an organism."
+        },
+        "joke": {
+            "ro": "Cromozomii sunt ca niște biblioteci organizate, dar uneori mutațiile le pierd paginile!",
+            "en": "Chromosomes are like well-organized libraries, but sometimes mutations lose their pages!"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nOmul are 46 de cromozomi (23 perechi)\nExplicație: Fiecare celulă diploidă umană conține 23 de perechi de cromozomi, moșteniți de la ambii părinți.",
+            "en": "🔹 Exercise:\nHumans have 46 chromosomes (23 pairs)\nExplanation: Each human diploid cell contains 23 chromosome pairs, inherited from both parents."
+        }
+    },
+    {
+        "id": 17,
+        "formula": "Hemoglobina transportă oxigenul",
+        "description": {
+            "ro": "Proteina hemoglobină din sânge transportă oxigenul de la plămâni către celule.",
+            "en": "The hemoglobin protein in blood transports oxygen from the lungs to cells."
+        },
+        "joke": {
+            "ro": "Hemoglobina e ca un taxi: duce oxigenul acolo unde e nevoie!",
+            "en": "Hemoglobin is like a taxi: it takes oxygen where it’s needed!"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nO₂ + Hemoglobină → Oxihemoglobină\nExplicație: Oxigenul se leagă de hemoglobină în plămâni și este transportat la țesuturi.",
+            "en": "🔹 Exercise:\nO₂ + Hemoglobin → Oxyhemoglobin\nExplanation: Oxygen binds to hemoglobin in the lungs and is transported to tissues."
+        }
+    },
+    {
+        "id": 18,
+        "formula": "Bacteriile se reproduc prin diviziune celulară",
+        "description": {
+            "ro": "Bacteriile se divid asexuat prin fisură, formând două celule fiice identice.",
+            "en": "Bacteria reproduce asexually by fission, forming two identical daughter cells."
+        },
+        "joke": {
+            "ro": "Bacteriile au organizat o petrecere de diviziune celulară și au invitat toți prietenii!",
+            "en": "The bacteria organized a cell division party and invited all their friends!"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nBacterie → 2 Bacterii\nExplicație: O bacterie se divide în două celule fiice identice prin diviziune binară.",
+            "en": "🔹 Exercise:\nBacterium → 2 Bacteria\nExplanation: A bacterium divides into two identical daughter cells through binary fission."
+        }
+    },
+    {
+        "id": 19,
+        "formula": "Sângele transportă substanțe nutritive și oxigen",
+        "description": {
+            "ro": "Sângele transportă oxigen, dioxid de carbon, nutrienți și hormoni în organism.",
+            "en": "Blood transports oxygen, carbon dioxide, nutrients, and hormones throughout the body."
+        },
+        "joke": {
+            "ro": "Sângele a fost întrebat de ce e atât de ocupat: 'Pentru că am multe substanțe de transportat!'",
+            "en": "Blood was asked why it’s so busy: 'Because I have a lot of substances to transport!'"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nSângele transportă O₂ de la plămâni la țesuturi și CO₂ înapoi la plămâni.\nExplicație: Hemoglobina din sânge leagă oxigenul și dioxidul de carbon pentru a le transporta.",
+            "en": "🔹 Exercise:\nBlood transports O₂ from the lungs to tissues and CO₂ back to the lungs.\nExplanation: Hemoglobin in blood binds oxygen and carbon dioxide for transport."
+        }
+    },
+
+    {
+        "id": 20,
+        "formula": "Sistemul endocrin reglează funcțiile organismului prin hormoni",
+        "description": {
+            "ro": "Sistemul endocrin produce hormoni care reglează metabolismul, creșterea și reproducerea.",
+            "en": "The endocrine system produces hormones that regulate metabolism, growth, and reproduction."
+        },
+        "joke": {
+            "ro": "Sistemul endocrin a fost întrebat de ce e atât de calm: 'Pentru că am hormonii sub control!'",
+            "en": "The endocrine system was asked why it’s so calm: 'Because I have my hormones under control!'"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nInsulina scade glicemia, iar adrenalina crește ritmul cardiac.\nExplicație: Insulina reglează nivelul de glucoză din sânge, iar adrenalina răspunde la stres.",
+            "en": "🔹 Exercise:\nInsulin lowers blood sugar, while adrenaline increases heart rate.\nExplanation: Insulin regulates blood glucose levels, while adrenaline responds to stress."
+        }
+    },
+    {
+        "id": 21,
+        "formula": "Sistemul respirator aduce oxigen și elimină dioxidul de carbon",
+        "description": {
+            "ro": "Sistemul respirator permite schimbul de gaze între organism și mediu.",
+            "en": "The respiratory system allows gas exchange between the organism and the environment."
+        },
+        "joke": {
+            "ro": "Plămânul a fost întrebat de ce e atât de relaxat: 'Pentru că respir profund!'",
+            "en": "The lung was asked why it’s so relaxed: 'Because I breathe deeply!'"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nInhalare: O₂ intră în plămâni\nExpirație: CO₂ iese din plămâni\nExplicație: Plămânii permit schimbul de oxigen și dioxid de carbon prin respirație.",
+            "en": "🔹 Exercise:\nInhalation: O₂ enters the lungs\nExhalation: CO₂ exits the lungs\nExplanation: The lungs allow the exchange of oxygen and carbon dioxide through respiration."
+        }
+    },
+    {
+        "id": 22,
+        "formula": "Sistemul digestiv descompune alimentele în nutrienți",
+        "description": {
+            "ro": "Sistemul digestiv transformă alimentele în substanțe nutritive absorbite de organism.",
+            "en": "The digestive system transforms food into nutrients absorbed by the body."
+        },
+        "joke": {
+            "ro": "Sistemul digestiv a fost întrebat de ce e atât de ocupat: 'Pentru că am multe mese de digerat!'",
+            "en": "The digestive system was asked why it’s so busy: 'Because I have a lot of meals to digest!'"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nAlimente → Stomac → Intestin subțire → Nutrienți\nExplicație: Alimentele sunt descompuse în nutrienți care sunt absorbiți în sânge.",
+            "en": "🔹 Exercise:\nFood → Stomach → Small intestine → Nutrients\nExplanation: Food is broken down into nutrients that are absorbed into the blad."
+        }
+    },
+    {
+        "id": 23,
+        "formula": "Sistemul osos susține și protejează organismul",
+        "description": {
+            "ro": "Sistemul osos oferă suport structural și protecție organelor interne.",
+            "en": "The skeletal system provides structural support and protects internal organs."
+        },
+        "joke": {
+            "ro": "Oasele au fost întrebat de ce sunt atât de puternice: 'Pentru că ne antrenăm constant!'",
+            "en": "The bones were asked why they are so strong: 'Because we train constantly!'"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nOasele lungi (femur) susțin greutatea corpului.\nExplicație: Oasele lungi oferă suport și mobilitate organismului.",
+            "en": "🔹 Exercise:\nLong bones (femur) support body weight.\nExplanation: Long bones provide support and mobility to the body."
+        }
+    },
+    {
+        "id": 24,
+        "formula": "Sistemul muscular permite mișcarea corpului",
+        "description": {
+            "ro": "Sistemul muscular permite mișcarea prin contracția și relaxarea mușchilor.",
+            "en": "The muscular system allows movement through the contraction and relaxation of muscles."
+        },
+        "joke": {
+            "ro": "Mușchii au fost întrebați de ce sunt atât de puternici: 'Pentru că ne antrenăm constant!'",
+            "en": "The muscles were asked why they are so strong: 'Because we train constantly!'"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nMușchi scheletici → Mișcare voluntară\nExplicație: Mușchii scheletici permit mișcarea voluntară a corpului.",
+            "en": "🔹 Exercise:\nSkeletal muscles → Voluntary movement\nExplanation: Skeletal muscles allow voluntary movement of the body."
+        }
+    },
+    {
+        "id": 25,
+        "formula": "Sistemul limfatic ajută la apărarea organismului",
+        "description": {
+            "ro": "Sistemul limfatic transportă limfa și ajută la apărarea organismului împotriva infecțiilor.",
+            "en": "The lymphatic system transports lymph and helps defend the body against infections."
+        },
+        "joke": {
+            "ro": "Sistemul limfatic a fost întrebat de ce e atât de ocupat: 'Pentru că am multe infecții de combătut!'",
+            "en": "The lymphatic system was asked why it’s so busy: 'Because I have a lot of infections to fight!'"
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "🔹 Exercițiu:\nGanglioni limfatici → Filtrare bacterii\nExplicație: Ganglionii limfatici filtrează bacteriile și celulele străine din limfă.",
+            "en": "🔹 Exercise:\nLymph nodes → Bacteria filtration\nExplanation: Lymph nodes filter bacteria and foreign cells from lymph."
+        }
+    }
+
+]

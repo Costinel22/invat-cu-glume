@@ -1,0 +1,91 @@
+.joke-container {
+    max-width: 600px;
+    margin: 100px auto;
+    padding: 20px;
+    background: #f7f5e9;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color: black
+}
+
+.joke-box {
+    margin-top: 20px;
+}
+
+.hearts {
+    margin: 20px 0;
+}
+
+.heart {
+    font-size: 30px;
+    color: lightgray;
+    cursor: pointer;
+    transition: color 0.2s;
+}
+
+.heart.active {
+    color: red;
+}
+
+.button-group {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    /* spațiere între butoane */
+    margin-top: 20px;
+}
+
+.button-group button {
+    padding: 8px 14px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 6px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    transition: background-color 0.3s ease;
+}
+
+.button-group button:hover {
+    background-color: #0056b3;
+}
+
+.example-box {
+    background-color: #f4f4f4;
+    padding: 16px;
+    margin-top: 12px;
+    border-radius: 8px;
+    font-family: 'Courier New', Courier, monospace;
+    white-space: pre-wrap;
+    /* permite înfășurare și păstrează \n */
+    word-break: break-word;
+    /* rupe cuvintele prea lungi */
+    overflow-x: hidden;
+    /* dezactivează scroll orizontal */
+    width: 100%;
+    box-sizing: border-box;
+    line-height: 1.5;
+}
+
+.end-options {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-top: 20px;
+}
+
+.end-options button {
+    padding: 8px 14px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 6px;
+    border: none;
+    background-color: #005abb;
+    color: white;
+    transition: background-color 0.3s ease;
+}
+
+.end-options button:hover {
+    background-color: #011934;
+}

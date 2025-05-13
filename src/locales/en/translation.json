@@ -1,0 +1,97 @@
+{
+    "siteTitle": "Learn Smart",
+    "home": "Home",
+    "categories": {
+        "Matematica": "Mathematics",
+        "Fizica": "Physics",
+        "Chimie": "Chemistry",
+        "Romana": "Romanian",
+        "Biologie": "Biology",
+        "Geografie": "Geography",
+        "Informatică": "Computer Science",
+        "Istorie": "History",
+        "Logica": "Logic",
+        "Engleza": "English"
+    },
+    "language": "Language",
+    "searchPlaceholder": "Search...",
+    "ai": "AI Assistant",
+    "theme": "Theme",
+    "logout": "Logout",
+    "login": "Login",
+    "signup": "Sign up",
+    "welcomeMessage": "Welcome to Learn with Jokes!",
+    "exploreFormulasJokes": "Explore formulas, jokes, and learn smartly.",
+    "heroTitle": "Learning while laughing, kids and adults together",
+    "heroSubtitle": "Discover the magic of learning through jokes, in any language and for all ages",
+    "restartJokes": "Start Over",
+    "exitToHome": "Back to Homepage",
+    "previousJoke": "Previous joke",
+    "showExample": "Show explanation",
+    "hideExample": "Hide explanation",
+    "nextJoke": "Next joke",
+    "Autentificare": "Login",
+    "score": "Score",
+    "daily": "Daily",
+    "weekly": "Weekly",
+    "monthly": "Monthly",
+    "total": "Total",
+    "share": "Share score",
+    "sharedScore": "shared their score",
+    "copied": "Text copied!",
+    "categoryTitle": "Popular Categories",
+    "email": "Enter your email",
+    "password": "Password",
+    "showPassword": "Show password",
+    "forgotPassword": "Forgot password?",
+    "dontHaveAccount": "Don't have an account?",
+    "points": {
+        "title": "Points",
+        "description": "Earn points as you learn, engage, and participate."
+    },
+    "growth": {
+        "title": "Growth",
+        "description": "You improve with every joke, formula, or lesson."
+    },
+    "woalcon": {
+        "whatTitle": "What is Woalcon?",
+        "whatText": "Woalcon is a digital conference about humor, code, and learning.",
+        "howTitle": "How to join?",
+        "howText": "You can join for free, directly from the platform, with or without an account."
+    },
+    "features": {
+        "codingPlatform": "Coding Platform",
+        "codecademy": "Codecademy",
+        "mapTitle": "Humorous Map",
+        "biology": "Humor Biology"
+    },
+    "loginForm": {
+        "title": "Login",
+        "button": "Login",
+        "no_account": "Don't have an account?",
+        "change_avatar": "Change avatar"
+    },
+    "signupForm": {
+        "title": "Sign up",
+        "button": "Sign up",
+        "have_account": "Already have an account?",
+        "choose_avatar": "Choose an avatar (optional)"
+    },
+    "form": {
+        "email_placeholder": "Enter your email",
+        "password": "Password",
+        "password_placeholder": "Password",
+        "toggle_password": "Show/Hide password",
+        "forgot_password": "Forgot password?",
+        "processing": "Processing..."
+    },
+    "error": {
+        "invalid_credentials": "Invalid email or password.",
+        "signup_failed": "Error during account creation.",
+        "enter_email_for_reset": "Please enter your email for reset.",
+        "reset_email_failed": "Error sending reset email."
+    },
+    "info": {
+        "reset_email_sent": "We sent you a password reset email."
+    }
+}

@@ -1,0 +1,184 @@
+[{
+        "id": 1,
+        "formula": "F = m * a",
+        "description": {
+            "ro": "Legea a doua a lui Newton: forța este produsul dintre masă și accelerație.",
+            "en": "Newton's Second Law: force is the product of mass and acceleration."
+        },
+        "joke": {
+            "ro": "Am încercat să fug de matematică, dar Newton m-a prins: F = m*a, și eu am prea multă masă!",
+            "en": "I tried to run away from math, but Newton caught me: F = m*a, and I have too much mass!"
+        },
+        "hearts": 0
+    },
+    {
+        "id": 2,
+        "formula": "E = mc²",
+        "description": {
+            "ro": "Ecuația faimoasă a lui Einstein care arată echivalența între masă și energie.",
+            "en": "Einstein's famous equation showing the equivalence between mass and energy."
+        },
+        "joke": {
+            "ro": "Am zis că mănânc o prăjitură mică, dar s-a transformat în energie atomică: E=mc² și burta mea e dovada!",
+            "en": "I said I’d eat a small cake, but it turned into atomic energy: E=mc², and my belly is proof!"
+        },
+        "hearts": 0
+    },
+    {
+        "id": 3,
+        "formula": "v = d / t",
+        "description": {
+            "ro": "Viteza este distanța parcursă împărțită la timp.",
+            "en": "Velocity is the distance traveled divided by time."
+        },
+        "joke": {
+            "ro": "Am întârziat la școală și am justificat: 'Am avut o viteză negativă, profu’... v = d/t dar d era în sens invers!'",
+            "en": "I was late for school and justified it: 'I had negative velocity, teacher... v = d/t but d was going backward!'"
+        },
+        "hearts": 0
+    }, {
+        "id": 4,
+        "formula": "P = W / t",
+        "description": {
+            "ro": "Puterea este lucrul mecanic împărțit la timp.",
+            "en": "Power is work divided by time."
+        },
+        "joke": {
+            "ro": "Mama zice că n-am putere de muncă. I-am zis: 'Normal, P = W/t, iar W-ul meu e lene!'",
+            "en": "My mom says I lack work power. I told her: 'Of course, P = W/t, and my W is laziness!'"
+        },
+        "hearts": 0
+    },
+    {
+        "id": 5,
+        "formula": "W = F * d",
+        "description": {
+            "ro": "Lucrul mecanic este forța aplicată înmulțită cu deplasarea.",
+            "en": "Work is force applied multiplied by displacement."
+        },
+        "joke": {
+            "ro": "Am tras de frigider 2 metri și-am primit o lecție: W = F*d și F a fost toată familia!",
+            "en": "I dragged the fridge two meters and learned a lesson: W = F*d, and F was my whole family!"
+        },
+        "hearts": 0
+    },
+    {
+        "id": 6,
+        "formula": "ρ = m / V",
+        "description": {
+            "ro": "Densitatea este masa împărțită la volum.",
+            "en": "Density is mass divided by volume."
+        },
+        "joke": {
+            "ro": "Am turnat lapte în cafea și am zis: ρ = m/V... și acum cafeaua mea are master la fizică!",
+            "en": "I poured milk into my coffee and said: ρ = m/V... now my coffee has a master's degree in physics!"
+        },
+        "hearts": 0
+    },
+    {
+        "id": 7,
+        "formula": "Q = mcΔT",
+        "description": {
+            "ro": "Căldura absorbită sau cedată de un corp.",
+            "en": "Heat absorbed or released by a body."
+        },
+        "joke": {
+            "ro": "Am încercat să încălzesc supa la soare... Q = mcΔT și ΔT-ul meu era zero, ca nota la fizică!",
+            "en": "I tried to warm my soup in the sun… Q = mcΔT, but my ΔT was zero—just like my physics grade!"
+        },
+        "hearts": 0
+    },
+    {
+        "id": 8,
+        "formula": "V = I * R",
+        "description": {
+            "ro": "Legea lui Ohm: tensiunea este produsul dintre intensitatea curentului și rezistență.",
+            "en": "Ohm's Law: Voltage is the product of current and resistance."
+        },
+        "joke": {
+            "ro": "I-am zis fratelui meu că-i ca un bec ars: are R mare și V mic... Legea lui Ohm nu minte!",
+            "en": "I told my brother he's like a burnt-out bulb: high R and low V... Ohm's Law never lies!"
+        },
+        "hearts": 0
+    },
+    {
+        "id": 9,
+        "formula": "p = F / A",
+        "description": {
+            "ro": "Presiunea este forța aplicată pe unitatea de suprafață.",
+            "en": "Pressure is force applied over unit area."
+        },
+        "joke": {
+            "ro": "Am stat pe un cui și am simțit presiunea vieții: p = F/A... cuiul avea A prea mic!",
+            "en": "I sat on a nail and felt the pressure of life: p = F/A… the nail had A way too small!"
+        },
+        "hearts": 0
+    },
+    {
+        "id": 10,
+        "formula": "λ = v / f",
+        "description": {
+            "ro": "Lungimea de undă este raportul dintre viteză și frecvență.",
+            "en": "Wavelength is the ratio of velocity to frequency."
+        },
+        "joke": {
+            "ro": "Ascult muzică tare și tata zice: 'Ai λ mare!' I-am răspuns: 'Ba f mică, că-i chill-hop!'",
+            "en": "I listen to loud music and my dad says: 'Your λ is high!' I replied: 'Nah, f is low, it's chill-hop!'"
+        },
+        "hearts": 0
+    },
+    {
+        "id": 11,
+        "formula": "F = G * (m1 * m2) / r²",
+        "description": {
+            "ro": "Legea gravitației universale: forța gravitațională între două mase.",
+            "en": "Universal law of gravitation: gravitational force between two masses."
+        },
+        "joke": {
+            "ro": "Am încercat să scap de greutăți, dar gravitația m-a tras înapoi: F = G*(m1*m2)/r²!",
+            "en": "I tried to get rid of weights, but gravity pulled me back: F = G*(m1*m2)/r²!"
+        },
+        "hearts": 0
+    },
+    {
+        "id": 12,
+        "formula": "a = (v_f - v_i) / t",
+        "description": {
+            "ro": "Accelerația este variația vitezei în timp.",
+            "en": "Acceleration is the change in velocity over time."
+        },
+        "joke": {
+            "ro": "Am încercat să accelerez la școală, dar profu’ m-a frânat: a = (v_f - v_i)/t!",
+            "en": "I tried to accelerate at school, but the teacher braked me: a = (v_f - v_i)/t!"
+        },
+        "hearts": 0
+    },
+    {
+        "id": 13,
+        "formula": "F = -kx",
+        "description": {
+            "ro": "Legea lui Hooke: forța elastică este proporțională cu deformarea.",
+            "en": "Hooke's Law: elastic force is proportional to deformation."
+        },
+        "joke": {
+            "ro": "Am încercat să-mi întind elasticul, dar a zis: 'F = -kx, nu mă mai trasa!'",
+            "en": "I tried to stretch my rubber band, but it said: 'F = -kx, stop pulling me!'"
+        },
+        "hearts": 0
+    },
+    {
+        "id": 14,
+        "formula": "E = hf",
+        "description": {
+            "ro": "Energia fotonului este produsul dintre constanta lui Planck și frecvență.",
+            "en": "Photon energy is the product of Planck's constant and frequency."
+        },
+        "joke": {
+            "ro": "Am încercat să explic energia fotonului, dar toți mă priveau ca și cum aș fi spus: E = hf!",
+            "en": "I tried to explain photon energy, but everyone looked at me like I said: E = hf!"
+        },
+        "hearts": 0
+    }
+
+
+]

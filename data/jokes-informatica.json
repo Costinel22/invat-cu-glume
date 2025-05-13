@@ -1,0 +1,362 @@
+[{
+        "id": 1,
+        "formula": "HTML: <center>",
+        "description": {
+            "ro": "Centrarea conținutului în HTML.",
+            "en": "Centering content in HTML."
+        },
+        "joke": {
+            "ro": "De ce nu mai folosim <center>? Pentru că s-a retras din centrul atenției.",
+            "en": "Why don't we use <center> anymore? Because it has retired from the center of attention."
+        },
+        "hearts": 4,
+        "example": {
+            "ro": "Explicație: <center> este un element HTML învechit pentru centrarea conținutului.",
+            "en": "Explanation: <center> is a deprecated HTML element for centering content."
+        },
+        "exampleImage": "/images/html_center_tag.png"
+    },
+    {
+        "id": 2,
+        "formula": "CSS: !important",
+        "description": {
+            "ro": "Suprascrierea stilurilor în CSS.",
+            "en": "Overriding styles in CSS."
+        },
+        "joke": {
+            "ro": "CSS-ul meu e ca un copil răsfățat: totul e !important.",
+            "en": "My CSS is like a spoiled child: everything is !important."
+        },
+        "hearts": 4,
+        "example": {
+            "ro": "Explicație: !important forțează aplicarea unei reguli CSS.",
+            "en": "Explanation: !important forces a CSS rule to apply."
+        },
+        "exampleImage": "/images/css_important.png"
+    },
+    {
+        "id": 3,
+        "formula": "JavaScript: == vs ===",
+        "description": {
+            "ro": "Compararea valorilor în JavaScript.",
+            "en": "Comparing values in JavaScript."
+        },
+        "joke": {
+            "ro": "De ce JavaScript-ul are două tipuri de egal? Pentru că îi place să complice lucrurile.",
+            "en": "Why does JavaScript have two kinds of equals? Because it loves to make things complicated."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: == compară valorile după conversie, === compară și tipurile.",
+            "en": "Explanation: == compares values after conversion, === compares both value and type."
+        },
+        "exampleImage": "/images/js_equal_vs_strict_equal.png"
+    },
+    {
+        "id": 4,
+        "formula": "React: useEffect",
+        "description": {
+            "ro": "Gestionarea efectelor secundare în React.",
+            "en": "Managing side effects in React."
+        },
+        "joke": {
+            "ro": "useEffect: locul unde logica merge să se odihnească... sau să se încurce.",
+            "en": "useEffect: The place where logic goes to rest... or to get tangled."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: useEffect se folosește pentru a gestiona efecte secundare în componentele React.",
+            "en": "Explanation: useEffect is used to handle side effects in React components."
+        },
+        "exampleImage": "/images/react_useeffect.png"
+    },
+    {
+        "id": 5,
+        "formula": "HTML: <blink>",
+        "description": {
+            "ro": "Element HTML învechit pentru text intermitent.",
+            "en": "Deprecated HTML element for blinking text."
+        },
+        "joke": {
+            "ro": "Am folosit <blink> și acum ochii utilizatorilor clipesc necontrolat.",
+            "en": "I used <blink> and now users' eyes are blinking uncontrollably."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: <blink> este un element HTML depreciat care făcea textul să clipească.",
+            "en": "Explanation: <blink> is a deprecated HTML element that made text blink."
+        },
+        "exampleImage": "/images/html_blink_tag.png"
+    },
+    {
+        "id": 6,
+        "formula": "CSS: Flexbox",
+        "description": {
+            "ro": "Model de layout în CSS.",
+            "en": "Layout model in CSS."
+        },
+        "joke": {
+            "ro": "Flexbox-ul e ca un magician: face totul să se alinieze perfect.",
+            "en": "Flexbox is like a magician: it makes everything align perfectly."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Flexbox este un model de layout care ajută la alinierea elementelor pe pagină.",
+            "en": "Explanation: Flexbox is a layout model that helps align elements on the page."
+        },
+        "exampleImage": "/images/css_flexbox.png"
+    },
+
+    {
+        "id": 7,
+        "formula": "JavaScript: var vs let",
+        "description": {
+            "ro": "Declarația variabilelor în JavaScript.",
+            "en": "Variable declaration in JavaScript."
+        },
+        "joke": {
+            "ro": "De ce JavaScript-ul nu poate păstra un secret? Pentru că folosește var.",
+            "en": "Why can't JavaScript keep a secret? Because it uses var."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: var are un scope global, let are un scope de bloc.",
+            "en": "Explanation: var has a global scope, let has a block scope."
+        },
+        "exampleImage": "/images/js_var_vs_let.png"
+    },
+    {
+        "id": 8,
+        "formula": "CSS: Grid",
+        "description": {
+            "ro": "Model de layout în CSS.",
+            "en": "Layout model in CSS."
+        },
+        "joke": {
+            "ro": "Grid-ul e ca o tablă de șah: totul e organizat și nimic nu se pierde.",
+            "en": "Grid is like a chessboard: everything is organized and nothing gets lost."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Grid este un model de layout care ajută la organizarea elementelor pe pagină.",
+            "en": "Explanation: Grid is a layout model that helps organize elements on the page."
+        },
+        "exampleImage": "/images/css_grid.png"
+    },
+    {
+        "id": 9,
+        "formula": "JavaScript: async/await",
+        "description": {
+            "ro": "Gestionarea operațiunilor asincrone în JavaScript.",
+            "en": "Managing asynchronous operations in JavaScript."
+        },
+        "joke": {
+            "ro": "async/await: pentru când vrei să aștepți fără să aștepți.",
+            "en": "async/await: for when you want to wait without waiting."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: async/await ajută la gestionarea operațiunilor asincrone într-un mod mai simplu.",
+            "en": "Explanation: async/await helps manage asynchronous operations in a simpler way."
+        },
+        "exampleImage": "/images/js_async_await.png"
+    },
+    {
+        "id": 10,
+        "formula": "HTML: <marquee>",
+        "description": {
+            "ro": "Element HTML învechit pentru text care se deplasează.",
+            "en": "Deprecated HTML element for scrolling text."
+        },
+        "joke": {
+            "ro": "Am folosit <marquee> și acum utilizatorii nu mai pot citi nimic.",
+            "en": "I used <marquee> and now users can't read anything."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: <marquee> este un element HTML depreciat care făcea textul să se deplaseze.",
+            "en": "Explanation: <marquee> is a deprecated HTML element that made text scroll."
+        },
+        "exampleImage": "/images/html_marquee_tag.png"
+    },
+    {
+        "id": 11,
+        "formula": "CSS: Transition",
+        "description": {
+            "ro": "Animații în CSS.",
+            "en": "Animations in CSS."
+        },
+        "joke": {
+            "ro": "Transition-ul e ca un dans: totul trebuie să fie fluid.",
+            "en": "Transition is like a dance: everything needs to be smooth."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Transition ajută la crearea de animații fluide între stările CSS.",
+            "en": "Explanation: Transition helps create smooth animations between CSS states."
+        },
+        "exampleImage": "/images/css_transition.png"
+    },
+    {
+        "id": 12,
+        "formula": "JavaScript: this",
+        "description": {
+            "ro": "Referința la obiectul curent în JavaScript.",
+            "en": "Reference to the current object in JavaScript."
+        },
+        "joke": {
+            "ro": "this în JavaScript e ca un magician: apare și dispare când vrea.",
+            "en": "this in JavaScript is like a magician: it appears and disappears when it wants."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: this se referă la obiectul curent în contextul în care este folosit.",
+            "en": "Explanation: this refers to the current object in the context it is used."
+        },
+        "exampleImage": "/images/js_this.png"
+    },
+    {
+        "id": 13,
+        "formula": "CSS: Box Model",
+        "description": {
+            "ro": "Modelul de boxare în CSS.",
+            "en": "Box model in CSS."
+        },
+        "joke": {
+            "ro": "Box Model-ul e ca o cutie: totul trebuie să fie bine împachetat.",
+            "en": "The Box Model is like a box: everything needs to be well packed."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Box Model-ul definește cum se calculează dimensiunile elementelor în CSS.",
+            "en": "Explanation: The Box Model defines how the dimensions of elements are calculated in CSS."
+        },
+        "exampleImage": "/images/css_box_model.png"
+    },
+    {
+        "id": 14,
+        "formula": "JavaScript: Closure",
+        "description": {
+            "ro": "Funcții care păstrează accesul la variabilele dintr-un scope închis.",
+            "en": "Functions that retain access to variables in a closed scope."
+        },
+        "joke": {
+            "ro": "Closure-urile sunt ca niște secrete bine păstrate în JavaScript.",
+            "en": "Closures are like well-kept secrets in JavaScript."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Closure-urile permit funcțiilor să acceseze variabile dintr-un scope închis.",
+            "en": "Explanation: Closures allow functions to access variables from a closed scope."
+        },
+        "exampleImage": "/images/js_closure.png"
+    },
+    {
+        "id": 15,
+        "formula": "HTML: <font>",
+        "description": {
+            "ro": "Element HTML învechit pentru stilizarea fontului.",
+            "en": "Deprecated HTML element for font styling."
+        },
+        "joke": {
+            "ro": "Am folosit <font> și acum utilizatorii cred că sunt în anii '90.",
+            "en": "I used <font> and now users think they're in the '90s."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: <font> este un element HTML depreciat care stiliza fontul textului.",
+            "en": "Explanation: <font> is a deprecated HTML element that styled the font of text."
+        },
+        "exampleImage": "/images/html_font_tag.png"
+    },
+    {
+        "id": 16,
+        "formula": "CSS: Media Queries",
+        "description": {
+            "ro": "Stilizarea diferitelor dimensiuni de ecran.",
+            "en": "Styling for different screen sizes."
+        },
+        "joke": {
+            "ro": "Media Queries sunt ca un costum de baie: trebuie să se potrivească perfect.",
+            "en": "Media Queries are like a swimsuit: they need to fit perfectly."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Media Queries permit aplicarea stilurilor în funcție de dimensiunea ecranului.",
+            "en": "Explanation: Media Queries allow applying styles based on screen size."
+        },
+        "exampleImage": "/images/css_media_queries.png"
+    },
+    {
+        "id": 17,
+        "formula": "JavaScript: Promise",
+        "description": {
+            "ro": "Gestionarea operațiunilor asincrone în JavaScript.",
+            "en": "Managing asynchronous operations in JavaScript."
+        },
+        "joke": {
+            "ro": "Promise-urile sunt ca promisiunile: uneori se îndeplinesc, alteori nu.",
+            "en": "Promises are like promises: sometimes they get fulfilled, sometimes they don't."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Promise-urile sunt obiecte care reprezintă o operațiune asincronă.",
+            "en": "Explanation: Promises are objects that represent an asynchronous operation."
+        },
+        "exampleImage": "/images/js_promise.png"
+    },
+    {
+        "id": 18,
+        "formula": "CSS: Z-index",
+        "description": {
+            "ro": "Controlul ordinii de suprapunere a elementelor.",
+            "en": "Controlling the stacking order of elements."
+        },
+        "joke": {
+            "ro": "Z-index-ul e ca un joc de cărți: cine are cele mai mari valori câștigă.",
+            "en": "Z-index is like a card game: whoever has the highest values wins."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Z-index-ul controlează ordinea de suprapunere a elementelor în CSS.",
+            "en": "Explanation: Z-index controls the stacking order of elements in CSS."
+        },
+        "exampleImage": "/images/css_z_index.png"
+    },
+    {
+        "id": 19,
+        "formula": "JavaScript: Event Loop",
+        "description": {
+            "ro": "Gestionarea evenimentelor în JavaScript.",
+            "en": "Managing events in JavaScript."
+        },
+        "joke": {
+            "ro": "Event Loop-ul e ca un DJ: mereu pe ritm, dar uneori mai face o pauză.",
+            "en": "The Event Loop is like a DJ: always on beat, but sometimes takes a break."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: Event Loop-ul gestionează execuția codului asincron în JavaScript.",
+            "en": "Explanation: The Event Loop manages the execution of asynchronous code in JavaScript."
+        },
+        "exampleImage": "/images/js_event_loop.png"
+    },
+    {
+        "id": 20,
+        "formula": "HTML: <style>",
+        "description": {
+            "ro": "Element HTML pentru stilizarea paginii.",
+            "en": "HTML element for styling the page."
+        },
+        "joke": {
+            "ro": "Am folosit <style> și acum toată lumea vrea să fie designer.",
+            "en": "I used <style> and now everyone wants to be a designer."
+        },
+        "hearts": 0,
+        "example": {
+            "ro": "Explicație: <style> este un element HTML care permite adăugarea de stiluri CSS în pagină.",
+            "en": "Explanation: <style> is an HTML element that allows adding CSS styles to the page."
+        },
+        "exampleImage": "/images/html_style_tag.png"
+    }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "id": 1,
+    "formula": "E = mc²",
+    "description": {
+      "ro": "Relația masă-energie din teoria relativității a lui Einstein.",
+      "en": "The mass-energy relationship from Einstein's theory of relativity."
+    },
+    "joke": {
+      "ro": "Einstein a scăpat cafeaua pe masă și a zis: Aha! Masa chiar se transformă în energie!",
+      "en": "Einstein spilled coffee on the table and said: Aha! Mass really does convert to energy!"
+    },
+    "hearts": 3,
+    "example": {
+      "ro": "🔹 Exercițiu:\nDacă un obiect are o masă de 2 kg și viteza luminii este aproximativ 3×10⁸ m/s, atunci energia echivalentă este:\nE = (2 kg) × (3×10⁸ m/s)² = 1.8×10¹⁷ J.",
+      "en": "🔹 Exercise:\nIf an object has a mass of 2 kg and the speed of light is about 3×10⁸ m/s, then the equivalent energy is:\nE = (2 kg) × (3×10⁸ m/s)² = 1.8×10¹⁷ J."
+    }
+  },
+  {
+    "id": 2,
+    "formula": "a² + b² = c²",
+    "description": {
+      "ro": "Teorema lui Pitagora.",
+      "en": "Pythagorean theorem."
+    },
+    "joke": {
+      "ro": "Pitagora și-a inventat teorema ca să-și măsoare patul triunghiular.",
+      "en": "Pythagoras invented his theorem to measure his triangular bed."
+    },
+    "hearts": 4,
+    "example": {
+      "ro": "🔹 Exercițiu:\nÎntr-un triunghi dreptunghic cu catetele a = 3 cm și b = 4 cm, ipotenuza este:\nc² = 3² + 4² = 9 + 16 = 25\n=> c = √25 = 5 cm.",
+      "en": "🔹 Exercise:\nIn a right triangle with legs a = 3 cm and b = 4 cm, the hypotenuse is:\nc² = 3² + 4² = 9 + 16 = 25\n=> c = √25 = 5 cm."
+    }
+  },
+  {
+    "id": 3,
+    "formula": "π ≈ 3.14159",
+    "description": {
+      "ro": "Constanta Pi — raportul dintre circumferința și diametrul unui cerc.",
+      "en": "Pi constant—the ratio of a circle’s circumference to its diameter."
+    },
+    "joke": {
+      "ro": "Am încercat să memorez zecimalele lui Pi... acum am un cerc vicios în cap.",
+      "en": "I tried to memorize the decimals of Pi… now I have a vicious circle in my head."
+    },
+    "hearts": 5,
+    "example": {
+      "ro": "🔹 Exercițiu:\nDacă un cerc are diametrul de 10 cm, atunci circumferința lui este aproximativ:\nC = π × d = 3.14159 × 10 = 31.4159 cm.",
+      "en": "🔹 Exercise:\nIf a circle has a diameter of 10 cm, then its circumference is approximately:\nC = π × d = 3.14159 × 10 = 31.4159 cm."
+    }
+  },
+  {
+    "id": 4,
+    "formula": "e ≈ 2.71828",
+    "description": {
+      "ro": "Constanta Euler, baza logaritmului natural.",
+      "en": "Euler’s constant, the base of the natural logarithm."
+    },
+    "joke": {
+      "ro": "Logaritmul natural a intrat într-un bar și a cerut o bere... la infinit.",
+      "en": "The natural logarithm walked into a bar and ordered a beer… infinitely."
+    },
+    "hearts": 4,
+    "example": {
+      "ro": "🔹 Exercițiu:\nExpresia e^x descrie creșterea exponențială. De exemplu, dacă x = 1:\nE = e^1 ≈ 2.71828.",
+      "en": "🔹 Exercise:\nThe expression e^x describes exponential growth. For example, if x = 1:\nE = e^1 ≈ 2.71828."
+    }
+  },
+  {
+    "id": 5,
+    "formula": "sin²θ + cos²θ = 1",
+    "description": {
+      "ro": "Identitatea fundamentală a trigonometriei.",
+      "en": "The fundamental identity of trigonometry."
+    },
+    "joke": {
+      "ro": "Sin și Cos au ieșit împreună — dar au avut un triunghi amoros cu Tangent.",
+      "en": "Sin and Cos went out together—but they had a love triangle with Tangent."
+    },
+    "hearts": 3,
+    "example": {
+      "ro": "🔹 Exercițiu:\nPentru θ = 30°:\nsin²(30°) + cos²(30°) = (0.5)² + (√3/2)² = 0.25 + 0.75 = 1.",
+      "en": "🔹 Exercise:\nFor θ = 30°:\nsin²(30°) + cos²(30°) = (0.5)² + (√3/2)² = 0.25 + 0.75 = 1."
+    }
+  },
+  {
+    "id": 6,
+    "formula": "Δ = b² - 4ac",
+    "description": {
+      "ro": "Discriminantul unei ecuații de gradul al doilea.",
+      "en": "The discriminant of a quadratic equation."
+    },
+    "joke": {
+      "ro": "Mi-am verificat viața cu Δ — negativă... deci nu are soluții reale.",
+      "en": "I checked my life with Δ—negative... so no real solutions!"
+    },
+    "hearts": 0,
+    "example": {
+      "ro": "🔹 Exercițiu:\nPentru ecuația x² - 6x + 9 = 0:\nΔ = (-6)² - 4(1)(9) = 36 - 36 = 0\n=> O soluție reală.",
+      "en": "🔹 Exercise:\nFor the equation x² - 6x + 9 = 0:\nΔ = (-6)² - 4(1)(9) = 36 - 36 = 0\n=> One real solution."
+    }
+  },
+  {
+    "id": 7,
+    "formula": "x = (-b ± √Δ) / 2a",
+    "description": {
+      "ro": "Formula ecuației de gradul al doilea.",
+      "en": "Quadratic equation formula."
+    },
+    "joke": {
+      "ro": "Îmi rezolv problemele de viață cu aceeași formulă — dar încă apar necunoscute.",
+      "en": "I solve my life problems with this formula—but unknowns keep appearing!"
+    },
+    "hearts": 0,
+    "example": {
+      "ro": "🔹 Exercițiu:\nPentru x² - 5x + 6 = 0:\nΔ = 5² - 4(1)(6) = 25 - 24 = 1\nx₁,₂ = (-5 ± √1) / 2(1) = {3, 2}.",
+      "en": "🔹 Exercise:\nFor x² - 5x + 6 = 0:\nΔ = 5² - 4(1)(6) = 25 - 24 = 1\nx₁,₂ = (-5 ± √1) / 2(1) = {3, 2}."
+    }
+  },
+  {
+    "id": 8,
+    "formula": "lim(x→0) sin(x)/x = 1",
+    "description": {
+      "ro": "Limită fundamentală în analiza matematică.",
+      "en": "Fundamental limit in mathematical analysis."
+    },
+    "joke": {
+      "ro": "Am încercat să-mi limitez entuziasmul... dar ca sin(x)/x, a fost imposibil aproape de 0.",
+      "en": "I tried to limit my enthusiasm… but like sin(x)/x, it was impossible near 0."
+    },
+    "hearts": 0,
+    "example": {
+      "ro": "🔹 Exercițiu:\nPentru valori mici ale x, sin(x)/x ≈ 1. De exemplu, pentru x = 0.01, sin(x)/x ≈ 1.",
+      "en": "🔹 Exercise:\nFor small x values, sin(x)/x ≈ 1. For example, for x = 0.01, sin(x)/x ≈ 1."
+    }
+  },
+  {
+    "id": 9,
+    "formula": "A = πr²",
+    "description": {
+      "ro": "Aria unui cerc.",
+      "en": "The area of a circle."
+    },
+    "joke": {
+      "ro": "Am aplicat formula cercului la pizza... acum știu de ce îngrașă.",
+      "en": "I applied the circle formula to pizza… now I understand why it makes me gain weight."
+    },
+    "hearts": 0,
+    "example": {
+      "ro": "🔹 Exercițiu:\nDacă un cerc are un radius de 7 cm, aria este:\nA = π × 7² = 49π ≈ 153.94 cm².",
+      "en": "🔹 Exercise:\nIf a circle has a radius of 7 cm, the area is:\nA = π × 7² = 49π ≈ 153.94 cm²."
+    }
+  },
+  {
+    "id": 10,
+    "formula": "log(ab) = log(a) + log(b)",
+    "description": {
+      "ro": "Proprietatea logaritmilor pentru produs.",
+      "en": "Logarithm property for multiplication."
+    },
+    "joke": {
+      "ro": "Logaritmul și-a făcut un plan de afaceri... totul se adună frumos.",
+      "en": "The logarithm started a business plan… everything adds up beautifully."
+    },
+    "hearts": 0,
+    "example": {
+      "ro": "🔹 Exercițiu:\nDacă a = 100 și b = 10, atunci:\nlog(100 × 10) = log(100) + log(10) = 2 + 1 = 3.",
+      "en": "🔹 Exercise:\nIf a = 100 and b = 10, then:\nlog(100 × 10) = log(100) + log(10) = 2 + 1 = 3."
+    }
+  },
+  {
+    "id": 11,
+    "formula": "aⁿ × aᵐ = aⁿ⁺ᵐ",
+    "description": {
+      "ro": "Proprietatea puterilor cu aceeași bază.",
+      "en": "Exponent property for the same base."
+    },
+    "joke": {
+      "ro": "Puterile s-au unit și au devenit mai puternice... la propriu!",
+      "en": "Powers joined forces and became stronger… literally!"
+    },
+    "hearts": 0,
+    "example": {
+      "ro": "🔹 Exercițiu:\nDacă a = 2, n = 3 și m = 4, atunci:\n2³ × 2⁴ = 2⁷ = 128.",
+      "en": "🔹 Exercise:\nIf a = 2, n = 3, and m = 4, then:\n2³ × 2⁴ = 2⁷ = 128."
+    }
+  },
+  {
+    "id": 12,
+    "formula": "a + b = c",
+    "description": {
+      "ro": "Adunarea a două numere.",
+      "en": "Addition of two numbers."
+    },
+    "joke": {
+      "ro": "Am adunat toate glumele proaste... și am obținut un umor de 0.",
+      "en": "I added all the bad jokes… and got a humor score of 0."
+    },
+    "hearts": 0,
+    "example": {
+      "ro": "🔹 Exercițiu:\nDacă a = 5 și b = 3, atunci:\na + b = 5 + 3 = 8.",
+      "en": "🔹 Exercise:\nIf a = 5 and b = 3, then:\na + b = 5 + 3 = 8."
+    }
+  },
+  {
+    "id": 13,
+    "formula": "a - b = c",
+    "description": {
+      "ro": "Scăderea a două numere.",
+      "en": "Subtraction of two numbers."
+    },
+    "joke": {
+      "ro": "Am scăzut toate problemele din viața mea... dar au apărut altele noi.",
+      "en": "I subtracted all the problems from my life… but new ones appeared."
+    },
+    "hearts": 0,
+    "example": {
+      "ro": "🔹 Exercițiu:\nDacă a = 10 și b = 4, atunci:\na - b = 10 - 4 = 6.",
+      "en": "🔹 Exercise:\nIf a = 10 and b = 4, then:\na - b = 10 - 4 = 6."
+    }
+  },
+  {
+    "id": 14,
+    "formula": "a × b = c",
+    "description": {
+      "ro": "Înmulțirea a două numere.",
+      "en": "Multiplication of two numbers."
+    },
+    "joke": {
+      "ro": "Am înmulțit toate glumele proaste... și am obținut un umor de 0.",
+      "en": "I multiplied all the bad jokes… and got a humor score of 0."
+    },
+    "hearts": 0,
+    "example": {
+      "ro": "🔹 Exercițiu:\nDacă a = 4 și b = 5, atunci:\na × b = 4 × 5 = 20.",
+      "en": "🔹 Exercise:\nIf a = 4 and b = 5, then:\na × b = 4 × 5 = 20."
+    }
+  }
+]
